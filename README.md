@@ -44,11 +44,13 @@
     <img src="https://img.shields.io/badge/Objective C++-F05138?style=flat">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
     <img src="https://img.shields.io/badge/Java-7F52FF?style=flat">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
     <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white">
+    
   </div>
 </div>
 <div style="text-align: left;">

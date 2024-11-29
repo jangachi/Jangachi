@@ -31,12 +31,6 @@
   </div>
 </div>
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 자동화 도구 </h2>
-  <div>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-  </div>
-</div>
-<div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪀 취미 언어 </h2>
   <div>
     <img src="https://img.shields.io/badge/Objective C++-F05138?style=flat">
@@ -58,6 +52,7 @@
     <img src="https://img.shields.io/badge/XCode-147EFB?style=flat&logo=xcode&logoColor=white">
     <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=white">
     <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white">
     <img src="https://img.shields.io/badge/Procreate-000000?style=flat">
     <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white">
